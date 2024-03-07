@@ -1,5 +1,12 @@
 #include <iostream>
+
+void conflict()
+{
+	std::cout << "Prueba de 2024\n\n";
+}
+
 int main()
 {
-	std::cout << "Main function\n\n";
+	conflict();
 }
+
