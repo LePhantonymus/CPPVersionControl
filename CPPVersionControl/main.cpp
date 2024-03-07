@@ -1,5 +1,10 @@
 #include <iostream>
+
+int solution()
+{
+	std::cout << "Solucion 2024\n\n";
+}
 int main()
 {
-	std::cout << "Main function\n\n";
+	solution();
 }
